@@ -7,3 +7,6 @@ My Knolege Base ,我的知识库
 
 2.《用AngularJS开发下一代Web应用cn》配套代码
   https://github.com/shyamseshadri/angularjs-book.git
+  
+3.所有版本的AngularJS源代码都在
+  code.angularjs.org
